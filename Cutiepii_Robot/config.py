@@ -71,9 +71,9 @@ class Config(object):
     STRING_SESSION = "idjkswukslllll-jekkzbn" #String session
     GENIUS_API_TOKEN = "udtu27jsiijwns" #Genius API
     YOUTUBE_API_KEY = "16yfehsujsnk"
-    ARQ_API_URL = Config.ARQ_API_URL
-    GOOGLE_CHROME_BIN = Config.GOOGLE_CHROME_BIN
-    CHROME_DRIVER = Config.CHROME_DRIVER
+    ARQ_API_URL =  "https://thearq.tech"
+    GOOGLE_CHROME_BIN = "GOOGLE_CHROME_BIN"
+    CHROME_DRIVER = "CHROME_DRIVER"
     BOT_NAME = "Bot Name"
     DEL_CMDS = True
     BOT_API_URL = "wjdkl3osolakg"
