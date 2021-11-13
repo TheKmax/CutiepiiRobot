@@ -85,7 +85,6 @@ humanize
 heroku3
 beautifulsoup4
 pyrogram
-yt-dlp
 python-arq
 aiohttp
 carbonnow
